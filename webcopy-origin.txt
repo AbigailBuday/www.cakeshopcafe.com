@@ -1,0 +1,1216 @@
+Uri: http://192.241.169.194/wp-content/uploads/2018/02/payments.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\2018\02\payments.png
+Content Type: image/png
+
+Uri: http://192.241.169.194/wp-content/uploads/2018/06/bg3-1.jpg?id=3697
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\2018\06\bg3-1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.241.169.194/wp-content/uploads/2018/06/bg5.jpg?id=3698
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\2018\06\bg5.jpg
+Content Type: image/jpeg
+
+Uri: http://192.241.169.194/wp-content/uploads/2018/09/CSC-Logo.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\2018\09\CSC-Logo.png
+Content Type: image/png
+
+Uri: http://fonts.googleapis.com/css?family=Poppins:400%2C600%2C500
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\css-2
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: http://www.cakeshopcafe.com/
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\index-1.htm
+Content Type: text/html
+
+Uri: http://www.cakeshopcafe.com/?fbclid=IwAR11XHEiDnLIWMfQ_k9QwEAnMi_3zP2EGxRVWdQctQBCSl7Mresd6S_XrWQ
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\index.htm
+Content Type: text/html
+
+Uri: http://www.cakeshopcafe.com/comments/feed/
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.cakeshopcafe.com/faq/
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\faq\index.htm
+Content Type: text/html
+
+Uri: http://www.cakeshopcafe.com/feed/
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.cakeshopcafe.com/gallery/
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\gallery\index.htm
+Content Type: text/html
+
+Uri: http://www.cakeshopcafe.com/my-account/
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\my-account\index.htm
+Content Type: text/html
+
+Uri: http://www.cakeshopcafe.com/my-account/lost-password/
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\my-account\lost-password\index.htm
+Content Type: text/html
+
+Uri: http://www.cakeshopcafe.com/wp-admin/js/password-strength-meter.min.js?ver=5.2.17
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/cache/wpfc-minified/6l6h8dt0/bg9hi.css
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\cache\wpfc-minified\6l6h8dt0\bg9hi.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/cache/wpfc-minified/6y5pkfhg/bnh96.css
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\cache\wpfc-minified\6y5pkfhg\bnh96.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/cache/wpfc-minified/7blf65p5/bg9hi.css
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\cache\wpfc-minified\7blf65p5\bg9hi.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/cache/wpfc-minified/7ky0yivn/bg9hi.js
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\cache\wpfc-minified\7ky0yivn\bg9hi.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/cache/wpfc-minified/8htxgigs/bg9hi.css
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\cache\wpfc-minified\8htxgigs\bg9hi.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/cache/wpfc-minified/98un0v92/bg9hi.css
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\cache\wpfc-minified\98un0v92\bg9hi.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/cache/wpfc-minified/dq25j5y3/bg9hi.css
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\cache\wpfc-minified\dq25j5y3\bg9hi.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/cache/wpfc-minified/e5apydrk/bg9hi.js
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\cache\wpfc-minified\e5apydrk\bg9hi.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/cache/wpfc-minified/ei976sc3/bg9hi.css
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\cache\wpfc-minified\ei976sc3\bg9hi.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/cache/wpfc-minified/espugxs/bg9hi.css
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\cache\wpfc-minified\espugxs\bg9hi.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/cache/wpfc-minified/g1ph1mm0/bg9hi.js
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\cache\wpfc-minified\g1ph1mm0\bg9hi.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/cache/wpfc-minified/kei9b0yo/bg9hi.js
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\cache\wpfc-minified\kei9b0yo\bg9hi.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/cache/wpfc-minified/knd1js63/bg9hi.css
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\cache\wpfc-minified\knd1js63\bg9hi.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/cache/wpfc-minified/laxrica5/bg9hi.css
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\cache\wpfc-minified\laxrica5\bg9hi.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\contact-form-7\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.4
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.4
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.12.1
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\google-analytics-for-wordpress\assets\js\frontend-gtag.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.svg
+Content Type: image/svg+xml
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.ttf
+Content Type: x-font/ttf
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.woff
+Content Type: x-font/woff
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg?f6ud62
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.ttf
+Content Type: x-font/ttf
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?f6ud62
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.woff
+Content Type: x-font/woff
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/flickr.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\flickr.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/address-book.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\address-book.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\alarm-clock.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/anchor.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\anchor.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/application-image.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\application-image.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/arrow.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\arrow.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/asterisk.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\asterisk.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\auction-hammer.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\balloon-buzz.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\balloon-facebook.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\balloon-twitter.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/balloon.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\balloon.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/battery-full.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\battery-full.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/binocular.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\binocular.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-excel.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-image.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-music.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-office.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-pdf.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-powerpoint.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-word.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/bookmark.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\bookmark.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/camcorder.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\camcorder.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/camera.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\camera.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/chart-pie.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\chart-pie.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/chart.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\chart.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/clock.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\clock.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/control.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\control.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/fire.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\fire.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/heart.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\heart.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/mail.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\mail.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/plus-shield.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\plus-shield.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/icons/video.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\icons\video.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/spinner.gif
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\spinner.gif
+Content Type: image/gif
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/toggle_close.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\toggle_close.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/images/toggle_open.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\images\toggle_open.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.5.2
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\js\dist\js_composer_front.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=5.5.2
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\js\vendors\woocommerce-add-to-cart.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.5.2
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\lib\bower\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=5.5.2
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\lib\bower\isotope\dist\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/lib/vc-tta-autoplay/vc-tta-autoplay.min.js?ver=5.5.2
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\lib\vc-tta-autoplay\vc-tta-autoplay.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/lib/vc_accordion/vc-accordion.min.js?ver=5.5.2
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\lib\vc_accordion\vc-accordion.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/vc/alert.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\vc\alert.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/vc/blur.svg
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\vc\blur.svg
+Content Type: image/svg+xml
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/vc/exclamation.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\vc\exclamation.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/vc/info.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\vc\info.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/vc/remove.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\vc\remove.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/js_composer/assets/vc/tick.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\js_composer\assets\vc\tick.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/photo-gallery/css/bwg-fonts/fonts.css?ver=0.0.1
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\photo-gallery\css\bwg-fonts\fonts.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/photo-gallery/css/bwg-fonts/fonts/bwg.eot?qy18kk
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\photo-gallery\css\bwg-fonts\fonts\bwg.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/photo-gallery/css/bwg-fonts/fonts/bwg.svg?qy18kk
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\photo-gallery\css\bwg-fonts\fonts\bwg.svg
+Content Type: image/svg+xml
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/photo-gallery/css/bwg-fonts/fonts/bwg.ttf?qy18kk
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\photo-gallery\css\bwg-fonts\fonts\bwg.ttf
+Content Type: x-font/ttf
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/photo-gallery/css/bwg-fonts/fonts/bwg.woff?qy18kk
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\photo-gallery\css\bwg-fonts\fonts\bwg.woff
+Content Type: x-font/woff
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.min.css?ver=1.5.32
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\photo-gallery\css\jquery.mCustomScrollbar.min.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/photo-gallery/css/styles.min.css?ver=1.5.32
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\photo-gallery\css\styles.min.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/photo-gallery/css/sumoselect.min.css?ver=3.0.3
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\photo-gallery\css\sumoselect.min.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/photo-gallery/images/ajax_loader.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\photo-gallery\images\ajax_loader.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/photo-gallery/images/blank.gif
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\photo-gallery\images\blank.gif
+Content Type: image/gif
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/photo-gallery/images/captcha_refresh.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\photo-gallery\images\captcha_refresh.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/photo-gallery/js/jquery.fullscreen-0.4.1.min.js?ver=0.4.1
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\photo-gallery\js\jquery.fullscreen-0.4.1.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js?ver=1.5.32
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\photo-gallery\js\jquery.mCustomScrollbar.concat.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/photo-gallery/js/jquery.mobile.min.js?ver=1.3.2
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\photo-gallery\js\jquery.mobile.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/photo-gallery/js/jquery.sumoselect.min.js?ver=3.0.3
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\photo-gallery\js\jquery.sumoselect.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/photo-gallery/js/scripts.min.js?ver=1.5.32
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\photo-gallery\js\scripts.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/revslider/public/assets/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\revslider\public\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/revslider/public/assets/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\revslider\public\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\revslider\public\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/revslider/public/assets/assets/loader.gif
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\revslider\public\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\revslider\public\assets\css\closedhand.cur
+Content Type: 
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\revslider\public\assets\css\openhand.cur
+Content Type: 
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\revslider\public\assets\css\settings.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.ttf
+Content Type: x-font/ttf
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.woff
+Content Type: x-font/woff
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\revslider\public\assets\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\revslider\public\assets\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woo-gutenberg-products-block/build/style.css?ver=2.3.0
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woo-gutenberg-products-block\build\style.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.css?ver=3.7.3
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=3.7.3
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.7.3
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.7.3
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.7.3
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/fonts/star.eot
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\fonts\star.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/fonts/star.eot?
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\fonts\star-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/fonts/star.svg
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\fonts\star.svg
+Content Type: image/svg+xml
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/fonts/star.ttf
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\fonts\star.ttf
+Content Type: x-font/ttf
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/fonts/star.woff
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\fonts\star.woff
+Content Type: x-font/woff
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.svg
+Content Type: image/svg+xml
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.ttf
+Content Type: x-font/ttf
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff
+Content Type: x-font/woff
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\amex.svg
+Content Type: image/svg+xml
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\diners.svg
+Content Type: image/svg+xml
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\discover.svg
+Content Type: image/svg+xml
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\jcb.svg
+Content Type: image/svg+xml
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\laser.svg
+Content Type: image/svg+xml
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\maestro.svg
+Content Type: image/svg+xml
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\visa.svg
+Content Type: image/svg+xml
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/images/icons/loader.svg
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\images\icons\loader.svg
+Content Type: image/svg+xml
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=3.7.3
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart-variation.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.7.3
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.7.3
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=3.7.3
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=3.7.3
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.7.3
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.6
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/yith-woocommerce-compare/assets/css/colorbox.css?ver=5.2.17
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\yith-woocommerce-compare\assets\css\colorbox.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/yith-woocommerce-compare/assets/images/colorbox/border.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\yith-woocommerce-compare\assets\images\colorbox\border.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/yith-woocommerce-compare/assets/images/colorbox/controls.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\yith-woocommerce-compare\assets\images\colorbox\controls.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/yith-woocommerce-compare/assets/images/colorbox/loading.gif
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\yith-woocommerce-compare\assets\images\colorbox\loading.gif
+Content Type: image/gif
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/yith-woocommerce-compare/assets/images/colorbox/loading_background.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\yith-woocommerce-compare\assets\images\colorbox\loading_background.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/yith-woocommerce-compare/assets/js/jquery.colorbox-min.js?ver=1.4.21
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\yith-woocommerce-compare\assets\js\jquery.colorbox-min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/plugins/yith-woocommerce-compare/assets/js/woocompare.min.js?ver=2.3.13
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\plugins\yith-woocommerce-compare\assets\js\woocompare.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/css/default.css?ver=5.2.17
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\css\default.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/css/fonts/Simple-Line-Icons.eot?v=2.4.0
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\css\fonts\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/css/fonts/Simple-Line-Icons.svg?v=2.4.0
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\css\fonts\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/css/fonts/Simple-Line-Icons.ttf?v=2.4.0
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\css\fonts\Simple-Line-Icons.ttf
+Content Type: x-font/ttf
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/css/fonts/Simple-Line-Icons.woff2?v=2.4.0
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\css\fonts\Simple-Line-Icons.woff2
+Content Type: 
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/css/fonts/Simple-Line-Icons.woff?v=2.4.0
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\css\fonts\Simple-Line-Icons.woff
+Content Type: x-font/woff
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/css/magnific-popup.css?ver=5.2.17
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/css/owl.carousel.min.css?ver=5.2.17
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/css/photoswipe/default-skin/default-skin.css?ver=5.2.17
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\css\photoswipe\default-skin\default-skin.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/css/photoswipe/default-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/css/responsive.css?ver=5.2.17
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\css\responsive.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/css/shortcode.css?ver=5.2.17
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\css\shortcode.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/css/simple-line-icons.css?ver=5.2.17
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\css\simple-line-icons.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/js/custom.js
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\js\custom.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/js/fastclick.js
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\js\fastclick.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/js/global.js?ver=1.0
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\js\global.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/js/infinite-scroll.pkgd.min.js
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\js\infinite-scroll.pkgd.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/js/jquery.cookie.min.js
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\js\jquery.cookie.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/js/jquery.countdown.min.js
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\js\jquery.countdown.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/js/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/js/jquery.lazy.min.js
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\js\jquery.lazy.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/js/jquery.panr.js
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\js\jquery.panr.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/js/jquery.parallax.js
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\js\jquery.parallax.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/js/jquery.scrollTo.min.js
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\js\jquery.scrollTo.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/js/jquery.tooltips.js
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\js\jquery.tooltips.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/js/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/js/TweenLite.min.js
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\js\TweenLite.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/assets/js/TweenMax.min.js
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\assets\js\TweenMax.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-content/themes/orgafresh/style.css?ver=5.2.17
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\themes\orgafresh\style.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/2018/06/1.jpg
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\2018\06\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/2018/06/93A9479R-e1556032881507.jpg
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\2018\06\93A9479R-e1556032881507.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/2018/06/9K8A0027-1-e1556033637198.jpg
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\2018\06\9K8A0027-1-e1556033637198.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/2018/06/9K8A0054-e1556033868454.jpg
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\2018\06\9K8A0054-e1556033868454.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/2018/06/cropped-9K8A0063-e1439316635159-1.jpg
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\2018\06\cropped-9K8A0063-e1439316635159-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/2018/06/CSC-Logo.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\2018\06\CSC-Logo.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/2018/06/csc_cake_20220519.pdf
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\2018\06\csc_cake_20220519.pdf
+Content Type: application/pdf
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/2018/07/44.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\2018\07\44.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/2018/07/sec1.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\2018\07\sec1.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/2018/07/sec2.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\2018\07\sec2.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/2018/07/sec3.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\2018\07\sec3.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/2018/09/CSC-Logo.png
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\2018\09\CSC-Logo-1.png
+Content Type: image/png
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20170121_115458.jpg?bwg=1546799200
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20170121_115458.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20180914_164444.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20180914_164444.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20180929_073313.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20180929_073313.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20181006_142725.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20181006_142725.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20181007_123941.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20181007_123941.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20181007_155828.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20181007_155828.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20181012_162440.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20181012_162440.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20181013_103431.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20181013_103431.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20181020_180747.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20181020_180747.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20181027_150531.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20181027_150531.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20181031_112040.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20181031_112040.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20181124_073226.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20181124_073226.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20181201_113622.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20181201_113622.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20181215_100142.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20181215_100142.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20190118_122714.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20190118_122714.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20190125_151235.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20190125_151235.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20190125_151548.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20190125_151548.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20190126_121553.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20190126_121553.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20190216_091116.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20190216_091116.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20190329_175846.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20190329_175846.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20190417_142554.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20190417_142554.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20190420_070905.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20190420_070905.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20190518_160309.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20190518_160309.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20190519_100521.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20190519_100521.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20190525_144433.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20190525_144433.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20190525_144608.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20190525_144608.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20190525_154839.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20190525_154839.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/20190621_075700.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\20190621_075700.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/DSC_6409-1.jpg?bwg=1546799200
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\DSC_6409-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/Meg_Thulin_201607.jpg?bwg=1546799200
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\Meg_Thulin_201607.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20170121_115458.jpg?bwg=1546799200
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20170121_115458.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20180914_164444.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20180914_164444.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20180929_073313.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20180929_073313.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20181006_142725.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20181006_142725.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20181007_123941.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20181007_123941.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20181007_155828.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20181007_155828.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20181012_162440.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20181012_162440.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20181013_103431.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20181013_103431.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20181020_180747.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20181020_180747.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20181027_150531.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20181027_150531.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20181031_112040.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20181031_112040.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20181124_073226.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20181124_073226.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20181201_113622.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20181201_113622.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20181215_100142.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20181215_100142.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20190118_122714.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20190118_122714.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20190125_151235.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20190125_151235.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20190125_151548.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20190125_151548.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20190126_121553.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20190126_121553.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20190216_091116.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20190216_091116.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20190329_175846.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20190329_175846.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20190417_142554.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20190417_142554.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20190420_070905.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20190420_070905.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20190518_160309.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20190518_160309.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20190519_100521.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20190519_100521.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20190525_144433.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20190525_144433.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20190525_144608.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20190525_144608.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20190525_154839.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20190525_154839.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/20190621_075700.jpg?bwg=1571164360
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\20190621_075700.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/DSC_6409-1.jpg?bwg=1546799200
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\DSC_6409-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/Meg_Thulin_201607.jpg?bwg=1546799200
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\photo-gallery\imported_from_media_libray\thumb\Meg_Thulin_201607.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-content/uploads/revslider/home4/home4-slide1.jpg
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-content\uploads\revslider\home4\home4-slide1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cakeshopcafe.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.17
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://www.cakeshopcafe.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-includes/js/underscore.min.js?ver=1.8.3
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-includes/js/wp-embed.min.js?ver=5.2.17
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-includes/js/wp-util.min.js?ver=5.2.17
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: http://www.cakeshopcafe.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://www.cakeshopcafe.com/wp-json/
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://www.cakeshopcafe.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.cakeshopcafe.com%2F
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://www.cakeshopcafe.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.cakeshopcafe.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://www.cakeshopcafe.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.cakeshopcafe.com%2Ffaq%2F
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://www.cakeshopcafe.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.cakeshopcafe.com%2Fgallery%2F
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://www.cakeshopcafe.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.cakeshopcafe.com%2Fgallery%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://www.cakeshopcafe.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.cakeshopcafe.com%2Fmy-account%2F
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-json\oembed\1.0\embed-5
+Content Type: application/json
+
+Uri: http://www.cakeshopcafe.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.cakeshopcafe.com%2Fmy-account%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\wp-json\oembed\1.0\embed-6
+Content Type: text/xml
+
+Uri: http://www.cakeshopcafe.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://demo.alura-studio.com/orgafresh/wp-content/uploads/2018/06/ppok.jpg
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\orgafresh\wp-content\uploads\2018\06\ppok.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300%2C400%2C500%2C600%2C700%2C800%2C900|Poppins:300%2C400%2C500%2C600%2C700%2C800%2C900&subset=latin%2Clatin-ext&ver=5.2.17
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Ubuntu&subset=greek,latin,greek-ext,vietnamese,cyrillic-ext,latin-ext,cyrillic
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJnedw.ttf
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJnedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgo6eA.ttf
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\s\ubuntu\v20\4iCs6KVjbNBYlgo6eA.ttf
+Content Type: font/ttf
+
+Uri: https://maps.google.com/maps/api/js?key&ver=5.2.17
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\maps\api\js
+Content Type: text/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?render=6LdT3YUUAAAAAO7-P6UtHacOhD3QLVrX9jvkp6wa&ver=3.0
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-145497016-1
+File Name: C:\Downloaded Web Sites\www.cakeshopcafe.com\gtag\js
+Content Type: application/javascript
+
